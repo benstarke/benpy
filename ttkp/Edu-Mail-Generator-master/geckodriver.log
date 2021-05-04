@@ -1,0 +1,62 @@
+1610285359070	geckodriver	INFO	Listening on 127.0.0.1:50476
+1610285362210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileRZRjfb"
+1610285443787	geckodriver	INFO	Listening on 127.0.0.1:50518
+1610285446975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileOGl394"
+1610285541735	geckodriver	INFO	Listening on 127.0.0.1:50559
+1610285544829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileYAOIto"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 2124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1610285554322	Marionette	INFO	Listening on port 50567
+1610285554510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=200913771, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=200913771, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=200913771, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=200913771 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=200913771 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=100012407, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=100012407, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=100012407, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=100012407 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=100012407 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.openccc.net/ccc-jasig-widget-portlets/assets/js/common/common-js.js?v=ddd6efc, line 2: TypeError: window.ccc.Module is undefined
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=246615553, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=246615553, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=246615553 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=490668153, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=490668153, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=490668153 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.opencccapply.net/uPortal/f/u67l1s1000/p/CCCApply.u67l1n1100/max/render.uP?pP_execution=e1s11, line 720: ReferenceError: validator is not defined
+1610287833436	Marionette	INFO	Stopped listening on port 50567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofilelXAD8G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610286550634	Marionette	INFO	Listening on port 50682
+1610286550794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=282622164, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=282622164, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=282622164, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=282622164 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=282622164 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1587989255, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1587989255, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1587989255, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1587989255 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1587989255 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.openccc.net/ccc-jasig-widget-portlets/assets/js/common/common-js.js?v=ddd6efc, line 2: TypeError: window.ccc.Module is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1509508227, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1509508227, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1509508227, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1509508227 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1509508227 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=1056040367, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=1056040367, line 1: unreachable code after return statement
+JavaScript warning: https://idp.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=6&cb=1056040367 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.opencccapply.net/uPortal/f/u67l1s1000/p/CCCApply.u67l1n1100/max/render.uP?pP_execution=e1s10, line 689: ReferenceError: validator is not defined
+1610287052464	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1610287219910	Marionette	INFO	Stopped listening on port 50682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
